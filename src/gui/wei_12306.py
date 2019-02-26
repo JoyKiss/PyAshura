@@ -3,7 +3,7 @@
 # @Date    : 2018-05-31 12:16:55
 #12306账号
 myuser="958685878@qq.com"
-mypasswd="958685878jayxk"
+mypasswd="958685878###"
 import urllib.request
 import re
 import ssl

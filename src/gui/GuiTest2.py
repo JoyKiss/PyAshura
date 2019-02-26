@@ -26,7 +26,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *  
 import cv2
 myuser="958685878@qq.com"
-mypasswd="958685878jayxk"
+mypasswd="958685878##"
 import urllib.request
 import re
 import ssl
