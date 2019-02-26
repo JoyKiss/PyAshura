@@ -1,0 +1,1 @@
+select id, col1, col2, col3, col4, `load` from AllPic
